@@ -137,7 +137,7 @@ class SportsDetails extends StatelessWidget {
       bottomSheet: Container(
         color: Style.backgroundColor,
         child: Container(
-          color: Style.backgroundColor,
+          
           padding: EdgeInsets.symmetric(horizontal: 16),
           decoration: BoxDecoration(
               color: Style.appWhite,
